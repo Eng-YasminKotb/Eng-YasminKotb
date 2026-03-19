@@ -17,7 +17,7 @@ I build layered, production-ready applications and love solving hard problems.
 
 ##  Featured Projects
 
-### [FazzaAI — Crisis Response System](https://github.com/HIS-MOHAMMED/FazzaaAI-Backend)
+### [FazzaAI — Crisis Response System]([https://github.com/HIS-MOHAMMED/FazzaaAI-Backend](https://github.com/HIS-MOHAMMED/FazaaAI-Backend))
 AI-driven crisis detection platform built with Spring Boot and SQL Server.  
 Integrated Together AI API with clean architecture and scalable REST endpoints.
 
