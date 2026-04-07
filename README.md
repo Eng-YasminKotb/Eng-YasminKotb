@@ -1,6 +1,6 @@
 # Hi, I'm Yasmin Kotb 👋
 
-Junior Backend Developer from Egypt, specializing in Java and Spring Boot.
+Junior Backend Developer, specializing in Java and Spring Boot.
 I build layered, production-ready applications and love solving hard problems.
 
 ---
