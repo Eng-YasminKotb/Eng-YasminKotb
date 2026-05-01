@@ -42,5 +42,5 @@ Deep-dive implementations beyond the standard curriculum.
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmin_Kotb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasmin-kotb-7930602a8/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](Yasmin.Kotb21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:Yasmin.Kotb21@gmail.com)
 
