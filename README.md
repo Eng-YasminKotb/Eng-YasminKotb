@@ -1,7 +1,7 @@
 # Hi, I'm Yasmin Kotb 👋
 
-Junior Backend Developer, specializing in Java and Spring Boot.
-I build layered, production-ready applications and love solving hard problems.
+Junior Backend Developer, specializing in Java and Spring Framework.
+I build layered applications and love solving problems.
 
 ---
 
@@ -11,7 +11,7 @@ I build layered, production-ready applications and love solving hard problems.
 **Frameworks:** Spring MVC · Spring Boot · Hibernate ORM  
 **Databases:** MySQL · PostgreSQL · MongoDB · SQL Server  
 **Tools:** Maven · Git · Postman  
-**Concepts:** OOP · SOLID · REST API · Layered Architecture · Transaction Management
+**Concepts:** OOP · SOLID · REST API · Layered Architecture 
 
 ---
 
@@ -25,7 +25,7 @@ Integrated Together AI API with clean architecture and scalable REST endpoints.
 Full CRUD web application — Spring MVC 4, Hibernate 4, MySQL.  
 3-layer architecture, C3P0 connection pooling, Bean Validation, image upload.
 
-### [Advanced Java Backend](https://github.com/Eng-YasminKotb/advanced-java-backend)
+### [advanced-java-backend](https://github.com/Eng-YasminKotb/product-management-system))
 Deep-dive implementations beyond the standard curriculum.  
 ✅ Custom HashMap from scratch · 🔨 Custom Thread Pool · 📋 More coming
 
